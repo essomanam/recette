@@ -104,6 +104,7 @@ div.colonne h2{
 }
 div.colonne{
     margin-top: 20px;
+    width: 100%;
 }
 
 div.liste p{
